@@ -1,0 +1,27 @@
+// Styling for the services section
+.service-heading {
+  margin: 15px 0;
+  text-transform: none;
+}
+
+section#why {
+  .section-heading {
+    color: $theme-primary;
+  }
+  .section-subheading {
+    color: $theme-additive-light;
+  }
+}
+
+section#what {
+  background-color: $theme-primary;
+  .text {
+    color: white;
+  }
+  .section-heading {
+    color: white;
+  }
+  .section-subheading {
+    color: $theme-additive-light;
+  }
+}
