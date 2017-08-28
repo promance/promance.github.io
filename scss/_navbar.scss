@@ -21,7 +21,7 @@
       color: darken($theme-primary, 10%);
     }
     img#logo {
-      width: 256px;
+      width: 128px;
     }
   }
   .navbar-nav {
@@ -55,6 +55,9 @@
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s;
+      img#logo {
+        width: 256px;
+      }
     }
     .navbar-nav {
       .nav-item {
