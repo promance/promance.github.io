@@ -53,3 +53,15 @@ section#newsletter {
     color: $theme-danger;
   }
 }
+
+#mce-error-response, #mce-success-response {
+  color: white;
+  padding: 20px;
+  border-radius: 3px;
+}
+#mce-error-response {
+  background-color: $theme-danger;
+}
+#mce-success-response {
+  background-color: $theme-additive;
+}

@@ -505,6 +505,17 @@ section#newsletter {
   section#newsletter .text-danger {
     color: #ed6d6c; }
 
+#mce-error-response, #mce-success-response {
+  color: white;
+  padding: 20px;
+  border-radius: 3px; }
+
+#mce-error-response {
+  background-color: #ed6d6c; }
+
+#mce-success-response {
+  background-color: #ffc347; }
+
 footer {
   padding: 25px 0;
   text-align: center; }
