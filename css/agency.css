@@ -171,7 +171,7 @@ section#why .section-heading {
   color: #30a6aa; }
 
 section#why .section-subheading {
-  color: #ffdd96; }
+  color: #ffc347; }
 
 section#what {
   background-color: #30a6aa; }
@@ -180,7 +180,7 @@ section#what {
   section#what .section-heading {
     color: white; }
   section#what .section-subheading {
-    color: #ffdd96; }
+    color: #ffc347; }
 
 #portfolio .portfolio-item {
   right: 0;
@@ -444,7 +444,7 @@ section#team .section-heading {
   color: #30a6aa; }
 
 section#team .section-subheading {
-  color: #ffdd96; }
+  color: #ffc347; }
 
 .team-member {
   margin-bottom: 50px;
@@ -468,7 +468,7 @@ section#newsletter {
   section#newsletter .section-heading {
     color: white; }
   section#newsletter .section-subheading {
-    color: #ffdd96; }
+    color: #ffc347; }
   section#newsletter .form-group {
     margin-bottom: 25px; }
     section#newsletter .form-group input,
