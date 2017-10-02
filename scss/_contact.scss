@@ -49,6 +49,8 @@ section#newsletter {
     color: $gray-lighter;
     @include heading-font;
   }
+  .text {
+    color: white; }
   .text-danger {
     color: $theme-danger;
   }

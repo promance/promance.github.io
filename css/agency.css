@@ -503,6 +503,8 @@ section#newsletter {
     color: #eeeeee;
     font-family: 'Century Gothic', 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
+  section#newsletter .text {
+    color: white; }
   section#newsletter .text-danger {
     color: #ed6d6c; }
 
