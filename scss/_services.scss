@@ -4,7 +4,7 @@
   text-transform: none;
 }
 
-section#why {
+section#why, section#teambox {
   .section-heading {
     color: $theme-primary;
   }
@@ -23,5 +23,17 @@ section#what {
   }
   .section-subheading {
     color: $theme-additive;
+  }
+}
+
+section#teambox {
+  .product-show {
+    margin: 0 0 20px 0;
+  }
+  .teambox-description {
+    margin: 20px 0;
+  }
+  .btn {
+    margin-top: 20px;
   }
 }

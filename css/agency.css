@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Agency v4.0.0-beta (https://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2017 Start Bootstrap
+ * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 body {
@@ -167,10 +167,10 @@ header.masthead {
   margin: 15px 0;
   text-transform: none; }
 
-section#why .section-heading {
+section#why .section-heading, section#teambox .section-heading {
   color: #30a6aa; }
 
-section#why .section-subheading {
+section#why .section-subheading, section#teambox .section-subheading {
   color: #ffc347; }
 
 section#what {
@@ -181,6 +181,15 @@ section#what {
     color: white; }
   section#what .section-subheading {
     color: #ffc347; }
+
+section#teambox .product-show {
+  margin: 0 0 20px 0; }
+
+section#teambox .teambox-description {
+  margin: 20px 0; }
+
+section#teambox .btn {
+  margin-top: 20px; }
 
 #portfolio .portfolio-item {
   right: 0;
